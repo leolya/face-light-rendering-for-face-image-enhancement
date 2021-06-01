@@ -14,6 +14,8 @@ This repository shows how to synthesize face images with poor lighting condition
 
 http://graphics.cs.cmu.edu/nsp/course/15-462/Spring04/slides/07-lighting.pdf
 
+https://github.com/zhhoper/DPR
+
 https://github.com/YadiraF/face3d
 
 https://github.com/ZHKKKe/MODNet
